@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 133711547}
   - component: {fileID: 133711546}
   m_Layer: 5
-  m_Name: Text
+  m_Name: Info
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1313,6 +1313,7 @@ MonoBehaviour:
   height: {fileID: 1409295720}
   prefab: {fileID: 7004419120389666193, guid: 3cf8da95b825c094aab8f9275f853c77, type: 3}
   letters: QWERTYUIOPASDFGHJKLZXCVBNM
+  info: {fileID: 133711546}
   _gridLayoutGroup: {fileID: 0}
 --- !u!222 &1922591166
 CanvasRenderer:
